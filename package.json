@@ -1,0 +1,21 @@
+{
+  "name": "folio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/plugin-transform-typescript": "^7.7.4",
+    "stylus": "^0.54.7",
+    "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.7.3",
+    "postcss-modules": "^1.4.1",
+    "tailwindcss": "^1.1.4"
+  }
+}
