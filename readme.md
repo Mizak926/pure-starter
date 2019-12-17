@@ -1,4 +1,4 @@
-# Folio
+# Pure-sarter
 
 Kick starter project with the following stack:
 
@@ -11,3 +11,5 @@ Kick starter project with the following stack:
 - CSS with `autoprefixer`
 - CSS with `purecss`
 - CSS with `tailwindcss` utility class
+
+## TODO

@@ -3,3 +3,8 @@ tabWidth: 2
 semi: false
 singleQuote: true
 printWidth: 255
+bracketSpacing: true
+jsxBracketSameLine: true
+useTabs: false
+semi: false
+singleQuote: false
